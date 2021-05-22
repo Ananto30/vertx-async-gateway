@@ -1,5 +1,7 @@
 # Vertx Async to Sync
 
+[![Language grade: Java](https://img.shields.io/lgtm/grade/java/g/Ananto30/vertx-async-gateway.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Ananto30/vertx-async-gateway/context:java)
+
 Example of converting (legacy) async service to sync.
 
 ## Run for dev
